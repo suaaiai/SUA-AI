@@ -1,6 +1,5 @@
 // Sua AI - F&B 원가율 계산 SaaS MVP v2.0 (인건비 모듈 추가)
 import { useState } from "react";
-import "../styles/globals.css";
 
 const initialIngredients = [
   { id: 1, name: "돼지고기 삼겹살", unit: "g", unitCost: 0.028, quantity: 200 },
