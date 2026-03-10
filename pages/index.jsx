@@ -15,7 +15,7 @@ const initialStaff = [
 const TABS = ["원가계산", "인건비", "메뉴관리", "분석"];
 const INSURANCE_RATE = 0.1695;
 // ✅ Google Forms 링크를 여기에 붙여넣으세요
-const FORMS_URL = "https://forms.gle/YOUR_FORM_LINK_HERE";
+const FORMS_URL = https://forms.gle/D3MioqT9V7aPcYcNA
 
 function formatKRW(n) {
   if (isNaN(n)) return "0원";
